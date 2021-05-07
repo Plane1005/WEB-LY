@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    float: left;
+    width: 2126px;
+    height: 1088px;
+    background: url(img/sum.jpgg) no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.head {
+    height: 60px;
+    line-height: 60px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.head span {
+    padding-right: 22px;
+    padding-left: 22px;
+    color: #959595;
+}
+
+.main .front {
+    font-style: normal;
+    padding-left: 45px;
+    font-size: large;
+    color: #959595;
+}
+
+.main .rear {
+    font-style: normal;
+    font-size: large;
+    color: #959595;
+}
+
+.shen {
+    float: left;
+    width: 650px;
+    height: 660px;
+    padding-left: 50px;
+}
+
+.shen .zuo {
+    width: 700px;
+    height: 210px;
+    border-bottom: 0px solid red;
+}
+
+.shen .zuo .one {
+    padding-top: 24px;
+    font-size: 19px;
+    color: #717171;
+}
+
+.shen .zuo .two {
+    padding-top: 2px;
+    font-size: 28px;
+    color: #000;
+}
+
+.shen .zuo .three {
+    padding-top: 5px;
+    font-size: 18px;
+    color: #717171;
+}
+
+.shen .zuo .four {
+    padding-top: 20px;
+    font-size: 17px;
+    color: #2b2b2b;
+    padding-bottom: 0px;
+}
+
+.shen .zuo .last {
+    font-size: 19px;
+    color: #717171;
+}
+
+.shen .zuo .star {
+    size: 100%;
+}
+
+.shen .zuo .right {
+    size: 50%;
+    float: right;
+}
+
+.you {
+    margin-top: 40px;
+    margin-left: 30px;
+    width: 310px;
+    height: 660px;
+    float: left;
+}
+
+.you span {
+    display: block;
+    padding-left: 50px;
+}
+
+.you .tu {
+    margin-bottom: 30px;
+}
+
+.zy {
+    margin-top: 30px;
+    margin-left: 40px;
+    width: 400px;
+    height: 600px;
+    float: left;
+}
+
+.zy h1 {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #d9d9d9;
+}
+
+.zy .zyx {}
+
+.zy .zyx .png {
+    float: left;
+    display: block;
+    width: 70px;
+    height: 150px;
+    padding-top: 18px;
+}
+
+.zy .zyx .word {
+    float: left;
+    display: block;
+    width: 325px;
+    height: 150px;
+    padding-top: 18px;
+    font-size: large;
+    margin-left: 5px;
+}
+
+.zy .zyx .word p {
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.zy .zyx .word span {
+    color: #717171;
+}

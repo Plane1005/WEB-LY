@@ -1,0 +1,10 @@
+.g-main {
+    width: 1230px;
+    height: 800px;
+    margin: 0 auto;
+    /* background-color: wheat; */
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: space-around;
+}
